@@ -68,6 +68,6 @@ OPTIONS:
 -d, --data              Optional data file. This data will be sent to each host
                         upon successful connection. Currently, this file does 
                         not allow null characters, but supports up to 4
-                        occurances of the current host's IP address, by replacing
+                        occurrences of the current host's IP address, by replacing
                         %s with the string (inet_ntoa) of that host's IP address.   
 
